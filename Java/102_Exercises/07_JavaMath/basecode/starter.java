@@ -84,6 +84,7 @@ class starter {
         // ===================================================
  
         double pricePerApple = 0.35;
+        int applesPicked = 5
  
         // TODO: Construct and declare a double variable named totalCost that equals
         // applesPicked times pricePerApple
