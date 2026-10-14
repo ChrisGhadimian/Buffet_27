@@ -24,7 +24,6 @@ class starter {
 
 		if(Chris.equals("Wizard")){
 		System.out.println("You've chosen the Wizard!");
-		
 		}
 
 		else if(Chris.equals("Rogue")){
