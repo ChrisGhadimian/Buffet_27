@@ -42,7 +42,6 @@ class starter {
 		System.out.println("Charisma, How personable");
 
 		
-
 		
 
 
