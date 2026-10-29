@@ -1,6 +1,6 @@
-sentence = "is this the real life?"
-print("is this just a fantasy?")
-sentence = "caught in a landslide,"
-print(sentence + " caught in a landslide,")
-sentence = "no escape from reality"
-print(sentence + " no escape from reality")
+sentence = "If the world was ending, I'd wanna be next to you"
+print("If the party was over and our time on earth was through")
+sentence = "I'd hold you for a little while and make you smile"
+print(sentence + "I'd hold you for a little while and make you smile")
+sentence = "Wake up, I'd wanna wrap you up, I'd wanna be with you"
+print(sentence + "Wake up, I'd wanna wrap you up,  I'd wanna be with you")
