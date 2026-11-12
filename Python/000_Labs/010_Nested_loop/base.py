@@ -1,0 +1,5 @@
+x = input("what symbol would you like to use? ")
+y = input("What do you want the width to be? ")
+z = input("What do you want the height to be? ")
+v = input("do you want a horizontal line, or a vertical line? ")
+print()
