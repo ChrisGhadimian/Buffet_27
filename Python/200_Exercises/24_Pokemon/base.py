@@ -6,3 +6,4 @@ pokemon = requests.get("https://pokeapi.co/api/v2/pokemon/pikachu").json()
 # https://jsonformatter.org/json-viewer
 
 print(pokemon["name"])
+pokemon = requests.get("https://pokeapi.co/api/v2/pokemon/charizard").json()
